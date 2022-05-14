@@ -9,7 +9,7 @@ Python Bikeshare project
 ### Description
 This project was created and posted as a part of Udacity lesson.
 We explore bike share systems for three major cities in the United States—Chicago, New York City, and Washington
-
+Using python to caluclate descriptive statistics such as popular times of travel and trip duration
 
 ### Files used
 bikeshare.py
