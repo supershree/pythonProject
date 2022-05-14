@@ -20,7 +20,8 @@ def get_filters():
     months = ['ALL', 'JANUARY', 'FEBRUARY', 'MARCH', 'APRIL', 'MAY', 'JUNE']
     cities = ['CHICAGO', 'NEW YORK CITY', 'WASHINGTON']
     days = ['ALL', 'MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY', 'SUNDAY']
-    # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
+    # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid
+    # inputs
     while True:
         city = input("Enter a city (Chicago, New York City, or Washington): ").upper()
         if (city in cities):
